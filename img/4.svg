@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-170.000000, -2400.000000)">
+            <g id="1" transform="translate(172.000000, 2402.000000)">
+                <circle id="Oval" stroke="#C90404" stroke-width="3" cx="33" cy="33" r="33"></circle>
+                <text id="4" font-family="Helvetica" font-size="28" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="25.2138672" y="44">4</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
