@@ -48,8 +48,7 @@ ul {
     font-size: 16px
 }
 
-.main-nav .right-menu {
-   
+.main-nav .right-menu {  
     display: flex;
     margin-right: 120px;
     z-index: 500;
@@ -58,57 +57,55 @@ ul {
 
 
 .logo {
-width: 165px;
-height: 30px;
-margin-left: 136px;
-margin-top: 42px;
+    width: 165px;
+    height: 30px;
+    margin-left: 136px;
+    margin-top: 42px;
 }
 
 .register{
-cursor: pointer;
-width: 152px;
-height: 42px;
-/* left: 1004px; */
-margin-top: 32px;
-color: #FFFFFF;
-background-color: #C90404;
-border-radius: 5px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 22px;
-text-align: center;
-
-
-
+    cursor: pointer;
+    width: 152px;
+    height: 42px;
+    /* left: 1004px; */
+    margin-top: 32px;
+    color: #FFFFFF;
+    background-color: #C90404;
+    border-radius: 5px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
 }
 
 /* End Nav  */
 
 /* showcase */
-h1 {width: 533px;
-height: 264px;
-margin-left: 151px;
-margin-top: 241px;
-font-family: Montserrat;
-font-weight: 600;
-font-size: 70px;
-line-height: 66px;
-letter-spacing: -3.8px;
-color: #FFFFFF;
-}
+/* h1 {
+    width: 533px;
+    height: 264px;
+    margin-left: 151px;
+    margin-top: 241px;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 66px;
+    letter-spacing: -3.8px;
+    color: #FFFFFF;
+} */
 
-p {
-width: 357px;
-height: 30px;
-margin-left: 151px;
-top: 517px;
-font-weight: 500;
-font-size: 21px;
-line-height: 30px;
-color: #FFFFFF;
-}
+/* p {
+    width: 357px;
+    height: 30px;
+    margin-left: 151px;
+    top: 517px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 30px;
+    color: #FFFFFF;
+} */
 
 .sign {
 cursor: pointer;
@@ -125,27 +122,22 @@ line-height: 33px;
 }
 
 
-.red-patch{
+/* .red-patch{
     position: absolute;
     top: 0px;
-    /* left: 20px;  */
     right: 0px;
-   
-    
-
-
 }
 .groupies { 
     position: absolute;
     top: 135px;
     right: 150px;
    
-}
+} */
 /* end show case */
 
 /* Earning  */
 
-h2 {
+/* h2 {
     position: absolute;
     width: 734px;
     height: 156px;
@@ -160,9 +152,9 @@ h2 {
     
     color: #FFFFFF;
 
-}
+} */
 
-.ads {
+/* .ads {
 position: absolute;
 width: 640px;
 height: 131px;
@@ -173,9 +165,9 @@ font-size: 23px;
 line-height: 32px;
 letter-spacing: -0.69697px;
 color: #FFFFFF;
-}
+} */
 
-.action-1{
+/* .action-1{
 position: absolute;
 width: 31px;
 height: 31px;
@@ -196,9 +188,9 @@ top: 1267px
     height: 31px;
     left: 522px;
     top: 1266px;
-}
+} */
 
-h3 {
+/* h3 {
     position: absolute;
 width: 515px;
 height: 29px;
@@ -207,9 +199,9 @@ top: 1304px;
 font-size: 26px;
 line-height: 26px;
 color: #FFFFFF;
-}
+} */
 
-.engagement{
+/* .engagement{
 position: absolute;
 width: 614px;
 height: 110px;
@@ -233,14 +225,14 @@ font-size: 17px;
 line-height: 26px;
 letter-spacing: -0.7px;
 color: #818992;
-}
+} */
 
-.lady {
+/* .lady {
 position: absolute;
 top: 850px;
 right: 145px;
 
-}
+} */
 
 /* Earning */
 

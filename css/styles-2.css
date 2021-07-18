@@ -1,0 +1,109 @@
+/* For Michael Only */
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    position: relative;
+    color: white;
+    font-weight: normal;
+}
+li.nav-item {
+    margin-right: 20px;
+}
+
+nav.navbar.scrolled-nav {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+nav.navbar.scrolled-nav  .navbar-nav .nav-link {
+    color: white;
+}
+/* Home Styles */
+section#home {
+    padding-top: 80px;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+}
+#home .container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+h1.home-title {
+    font-family: "Montserrat-semibold", sans-serif;
+    font-size: 70px;
+    line-height: 66px;
+}
+p.home-desc {
+    font-size: 21px;
+    font-family: "Montserrat";
+}
+button.sign-btn {
+    font-size: 27px;
+    height: 58px;
+    min-width: 190px;
+    border: none;
+    background: #C90404;
+    color: white;
+    margin-top: 40px;
+}
+img.group-people {
+    width: 50%;
+}
+img.red-rectangle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 52%;
+}
+button.btn.btn-danger {
+    background: #C90404;
+    height: 42px;
+    width: 150px;
+    margin-left: 10px;
+    border: none;
+}
+
+@media(max-height: 700px) {
+    img.red-rectangle {
+        width: 48%;
+    }
+}
+/* end of Home Styles */
+
+
+/* Earning Styles */
+section#earning {
+    color: white;
+    margin: 50px 0 50px;
+    padding: 40px 0 20px;
+}
+h2.earning-title {
+    font-size: 64px;
+    line-height: 62px;
+}
+p.ads {
+    font-size: 23px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    margin: 20px 0 10px;
+}
+h3.flex-equation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sign-symbol {
+    position: relative;
+    top: 18px;
+}
+p.engagement{
+    color: #818992;
+    font-size: 16px;
+    font-family: "Montserrat-extralight", sans-serif;
+}
+img.lady-img {
+    width: 100%;
+}
+/* end of Earning Styles */
