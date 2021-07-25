@@ -6,6 +6,8 @@ body {
     position: relative;
     color: white;
     font-weight: normal;
+    width: 100%;
+    overflow-x: hidden;
 }
 li.nav-item {
     margin-right: 20px;
@@ -107,3 +109,186 @@ img.lady-img {
     width: 100%;
 }
 /* end of Earning Styles */
+
+
+/* Perks  */
+section#perks {
+    color: white;
+    padding: 50px 60px;
+    margin:  80px 20px 80px 40px;
+    
+}
+
+h2.enjoy {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.free {
+    margin-top: 30px;
+    padding-left: 20px;
+   
+}
+
+.bees {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    padding-left: 20px;
+    
+}
+
+.Two {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.top {
+    margin-top: 30px;
+    padding-left: 20px;
+   
+}
+
+.events {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    padding-left: 20px;
+    
+}
+
+.three{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.cash {
+    margin-top: 30px;
+    padding-left: 20px;
+   
+}
+
+.cash-3 {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    padding-left: 20px;
+    
+}
+
+.Four {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.stan {
+    margin-top: 30px;
+    padding-left: 20px;
+   
+}
+
+.social {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    padding-left: 20px;
+    
+}
+
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.free {
+    margin-top: 30px;
+    padding-left: 20px;
+   
+}
+
+.bees {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: "Montserrat-extralight", sans-serif;
+    padding-left: 20px;
+    
+}
+
+img.male-img {
+
+   width: 75%;
+}
+
+/* End of perks  */
+
+/* text- box */
+
+.container.input {
+    background-image: url("img/red-BG.png");
+}
+
+.search-input {
+    display: flex;
+   align-items: center;
+   border: 1px solid #FFFFFF;
+   background-color: #760000;
+   /* height: 10px; */
+   padding: 8px ;
+   border-radius: 18px;
+   /* width: 20vw; */
+   margin: 0 auto;
+   margin-top: 20px;
+  
+   /* max-width: 900px; */
+   
+}
+
+.search-input input {
+    flex: 1;
+    padding: 10px 20px;
+    background-color:#760000;
+    border: none;
+    outline: none;
+
+}
+
+button.a-stan {
+    /* transform: translateX(50%); */
+   margin: 30px 30px 40px 40px;
+    border-radius: 16px;
+    padding: 10px;
+    width: 300px;
+}
+
+/* end text-box */
+
+footer { 
+   
+    align-items: center; 
+    justify-content: center; 
+  } 
+
+  .links .footer-link {
+      padding-top: 20px;
+      text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  footer.media {
+      margin-top: 20px;
+  }
