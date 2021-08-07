@@ -130,55 +130,40 @@ h2.enjoy {
     justify-content: space-between;
    
 }
-
 .free {
     margin-top: 30px;
     padding-left: 20px;
-   
 }
-
 .bees {
     font-size: 14px;
     line-height: 25px;
     font-family: "Montserrat-extralight", sans-serif;
     padding-left: 20px;
-    
 }
-
 .Two {
     display: flex;
     align-items: center;
     justify-content: space-between;
-   
 }
-
 .top {
     margin-top: 30px;
     padding-left: 20px;
-   
 }
-
 .events {
     font-size: 14px;
     line-height: 25px;
     font-family: "Montserrat-extralight", sans-serif;
     padding-left: 20px;
-    
 }
-
 .three{
     display: flex;
     align-items: center;
     justify-content: space-between;
-   
 }
-
 .cash {
     margin-top: 30px;
     padding-left: 20px;
-   
 }
-
 .cash-3 {
     font-size: 14px;
     line-height: 25px;
@@ -186,76 +171,68 @@ h2.enjoy {
     padding-left: 20px;
     
 }
-
 .Four {
     display: flex;
     align-items: center;
     justify-content: space-between;
-   
 }
-
 .stan {
     margin-top: 30px;
     padding-left: 20px;
-   
 }
-
 .social {
     font-size: 14px;
     line-height: 25px;
     font-family: "Montserrat-extralight", sans-serif;
     padding-left: 20px;
-    
 }
-
 .one {
     display: flex;
     align-items: center;
     justify-content: space-between;
-   
 }
-
 .free {
     margin-top: 30px;
     padding-left: 20px;
-   
 }
-
 .bees {
     font-size: 14px;
     line-height: 25px;
     font-family: "Montserrat-extralight", sans-serif;
     padding-left: 20px;
-    
 }
-
 img.male-img {
-
    width: 75%;
 }
 
 /* End of perks  */
 
+
+
 /* text- box */
 
-.container.input {
-    background-image: url("img/red-BG.png");
+#register {
+    background-image: url("../img/red-BG.png");
+    background-position: center;
+    padding: 50px 0 30px;
+    background-color: #760000;
 }
-
-.search-input {
+h1.click {
+    font-size: 74px;
+    letter-spacing: -3px;
+}
+p.away {
+    font-size: 28px;
+}
+/* .search-input {
     display: flex;
    align-items: center;
    border: 1px solid #FFFFFF;
    background-color: #760000;
-   /* height: 10px; */
    padding: 8px ;
    border-radius: 18px;
-   /* width: 20vw; */
    margin: 0 auto;
    margin-top: 20px;
-  
-   /* max-width: 900px; */
-   
 }
 
 .search-input input {
@@ -264,15 +241,38 @@ img.male-img {
     background-color:#760000;
     border: none;
     outline: none;
+} */
 
+.search-input {
+    position: relative;
+    padding: 5px 20px;
+}
+.search-input input.input-field {
+    width: 100%;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 22px !important;
+    height: 56px;
+    color: white;
+    padding: 0 12px;
+    outline: none;
+}
+.search-input img {
+    position: absolute;
+    right: 40px;
+    top: 35%;
+    height: 20px;
 }
 
 button.a-stan {
-    /* transform: translateX(50%); */
-   margin: 30px 30px 40px 40px;
-    border-radius: 16px;
+    font-weight: 600;
+    font-size: 27px;
+    margin: 60px auto 30px;
+    border-radius: 35px;
     padding: 10px;
-    width: 300px;
+    width: 400px;
+    color: #C90404;
+    border: none;
 }
 
 /* end text-box */
