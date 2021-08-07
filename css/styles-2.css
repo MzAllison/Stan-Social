@@ -270,9 +270,10 @@ button.a-stan {
     margin: 60px auto 30px;
     border-radius: 35px;
     padding: 10px;
-    width: 400px;
+    width: 90%;
     color: #C90404;
     border: none;
+    max-width: 400px;
 }
 
 /* end text-box */
@@ -292,3 +293,6 @@ footer {
   footer.media {
       margin-top: 20px;
   }
+  .logo-2 img {
+    max-width: 100%;
+}
